@@ -1,7 +1,5 @@
 # [Forkify](https://github.com/costaleonardo/javascript-forkify)
 
-> Forkify is a recipe finder/builder application built from the [The Complete JavaScript Course 2018: Build Real Projects!](https://www.udemy.com/the-complete-javascript-course/) udemy course. The application is built HTML5, CSS3, JavaScript, Babel, Webpack and Axios.
-
 ## Preview
 
 <img width="100%" src="docs/assets/app.png" alt="Forkify App">
